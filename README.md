@@ -7,6 +7,12 @@ help some nervous travellers feel more at ease and inform goverments where targe
 effort is needed to reduce certain types of crime.
 
 The methods used inlcude Principal Component Analysis as well a K-Means clustering and dendrogram grouping.
-  
-* TOC
-{:toc}
+
+## Contents:
+* tl_2017_us_state
+  * This inlcudes map details
+* Capstone VII.ipynb
+  * Code used to analyse and visualise data as well as report elements to explain
+*  UsArrests.csv  
+## Credits:
+This work was conducted by Michael Robson with resources and training provided by HyperionDev
